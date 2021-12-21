@@ -1,0 +1,23 @@
+.links {
+	color: blue;
+}
+
+.headers {
+	color : orange;
+	text-align: center;
+	font-family: "Times New Roman", sans-serif;
+	font-size: 30px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50;
+}
+
+.subheaders {
+	color: black;
+	text-align: center;
+	font-size 25px;
+}
